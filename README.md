@@ -2,7 +2,8 @@ Leprechaun
 ==========
 
 Plugable storage backends for Django
-This is just the extracted storage app from Mayan (http://github.com/rosarior/mayan)
+
+This is just the extracted storage app from Mayan (http://github.com/rosarior/mayan) with some minor changes, for now.
 
 
 Requirements
