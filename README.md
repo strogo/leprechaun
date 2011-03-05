@@ -11,6 +11,7 @@ Requirements
 * Django - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
 For the GridFS storage backend:
+
 Python:
 
 * PyMongo - the recommended way to work with MongoDB from Python
@@ -21,6 +22,7 @@ Executables:
 * MongoDB - a scalable, open source, document-oriented database
 
 For the Filebased storage backend:
+
 * None
 
 License
